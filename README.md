@@ -10,10 +10,10 @@
 <img src="https://img.shields.io/badge/Mybatis-2.2.0-%23764ABC" /> <img src="https://img.shields.io/badge/MariaDB-2.7.4-%23CC6699" /> 
 <img src="https://img.shields.io/badge/Httpclient-4.5.13-%238D6748" /> <img src="https://img.shields.io/badge/Lombok-1.18.30-%2361DAFB" /> 
 
-## 🎊 문제확인 가이드
-- 원하는 위치에 git pull
-- Intelij를 이용하여 프로젝트를 불러옵니다.
-- gradle build를 해줍니다.
+## 🎊 문제 확인 가이드
+- 원하는 위치에 `git clone https://github.com/richcollector/brique-kimtaewan.git`로 프로젝트를 다운받아 IDE(InteliJ)로 실행시켜줍니다.
+- `gradle build`를 하여 실행가능한 상태로 만들어줍니다.
+- README.md에 적혀있는 가이드에 따라 TEST해줍니다.
 
 ### 🤔 question 1
 - **`ReadCsv 실행`**
