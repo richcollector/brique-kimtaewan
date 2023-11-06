@@ -46,7 +46,6 @@ public class Response {
                     e.printStackTrace();
                 } finally {
                     latch.countDown();
-                    System.out.println(latch);
                 }
             });
         }
